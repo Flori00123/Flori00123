@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Flori00123
+- 👀 I’m interested in coding.
+- 💞️ I’m looking to collaborate on Projects in C#.
